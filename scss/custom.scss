@@ -6,3 +6,7 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+.carousel-item img {
+    max-width: 500px;
+    margin: 0 auto;
+}

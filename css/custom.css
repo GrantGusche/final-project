@@ -11855,5 +11855,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.carousel-item img {
+  max-width: 500px;
+  margin: 0 auto;
+}
 
 /*# sourceMappingURL=custom.css.map */
